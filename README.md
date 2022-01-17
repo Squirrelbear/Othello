@@ -16,6 +16,8 @@
 
 This document will explain the fundamentals of how the Othello game works. 
 
+- ([Youtube Demo](https://youtu.be/gIGlct4bAQs))
+
 # 1.3 The Rules of Othello
 
 Othello is a very simple game with rules that constrain how it is to be played. The following list
